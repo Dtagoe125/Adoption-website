@@ -1,6 +1,4 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
-
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+# [Demo Version of Association of Black Social Workers (Based off of StartBootstrap)](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
 ## Getting Started
 

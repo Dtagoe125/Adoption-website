@@ -1,4 +1,4 @@
-# [Demo Version of Association of Black Social Workers (Based off of StartBootstrap)](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# [Association of Black Social Workers (Based off of StartBootstrap)](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
 ## Getting Started
 

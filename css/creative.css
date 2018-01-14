@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: linear-gradient(#F05F40, #020202, transparent), url('../img/bkg.jpg');
   text-align: center;
   color: white;
 }
